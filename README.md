@@ -1,5 +1,7 @@
 # Proyecto Login - Polaval Propiedades
 
+---
+
 **Asignatura:**Aplicaciones Móviles para IoT (114-FLEX)  
 **Profesor:** Michael Arjel 
 
@@ -25,5 +27,3 @@ Permite a los usuarios iniciar sesión y ser redirigidos a una pantalla de bienv
 ## Para ejecutarlo
 1. Clonar este repositorio o descargar el proyecto.
 2. Abrir la carpeta raíz (`app_login`) en el entorno de desarrollo.
-   ```bash
-   flutter pub get
